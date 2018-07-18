@@ -1,6 +1,6 @@
 # Chat Project
 
-This project is a web app using Tornado Framework and an [https://github.com/tornadoweb/tornado/tree/master/demos/chat]
+This project is a web app using Tornado Framework and this demo [https://github.com/tornadoweb/tornado/tree/master/demos/chat]
 
 
 # Quickstart
